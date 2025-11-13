@@ -12,3 +12,4 @@ external:
 spring:
   config:
     import: optional:configserver:
+default-label: main
