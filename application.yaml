@@ -9,3 +9,6 @@ logging:
 external:
   payment:
     url: https://api.payment.prod.com/process
+spring:
+  config:
+    import: optional:configserver:
