@@ -13,3 +13,6 @@
  # config:
   #  import: optional:configserver:
    # default-label: main
+
+common:
+  message: "Shared configuration for all microservices"
