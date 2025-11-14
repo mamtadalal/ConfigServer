@@ -1,3 +1,12 @@
+server:
+  port: 8084
+
+#spring:
+ # datasource:
+ #   url: jdbc:mysql://prod-db-cluster:3306/demo_db
+
+
+
 #server:
 #  port: 8089
 #spring:
@@ -14,5 +23,5 @@
   #  import: optional:configserver:
    # default-label: main
 
-common:
-  message: "Shared configuration for all microservices"
+#common:
+ # message: "Shared configuration for all microservices"
